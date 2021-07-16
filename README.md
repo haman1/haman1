@@ -9,7 +9,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **ombasaherman@gmail.com**
 - 📝 I regulary write articles on https://ombasa.hashnode.dev/
 
 ## 🚀 Languages and Tools:
@@ -41,7 +40,7 @@
  
   <a href="https://github.com/haman1/github-readme-stats"><img alt="haman1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haman1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
 
 
 <br/>
