@@ -5,7 +5,7 @@
 
 ## About Me
 
-- 🌱 I’m currently learning ** React and SQL server development.**
+- 🌱 I’m currently learning ** React **
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
