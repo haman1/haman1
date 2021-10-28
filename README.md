@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning ** React **
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
 - 📝 I regulary write articles on https://ombasa.hashnode.dev/
 
 ## 🚀 Languages and Tools:
