@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning ** React **
 
-- 📝 I regulary write articles on https://ombasa.hashnode.dev/
 
 ## 🚀 Languages and Tools:
 
