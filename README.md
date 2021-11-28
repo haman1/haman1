@@ -1,11 +1,5 @@
 
 <h1 align="center">Hi , I'm Herman</h1>
-<h3 align="center">I'm a Software Engineer </h3>
-
-
-## About Me
-
-- 🌱 I’m currently learning ** React **
 
 
 ## 🚀 Languages and Tools:
